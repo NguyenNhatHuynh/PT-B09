@@ -2,9 +2,9 @@ Bài 1:
 Đề bài: Chuyển đổi thập phân sang nhị phân cho các số sau,
 vd: 120 chuyển sang nhị phân là 1111000
 
+- Số 300
 - Số 200
-- Số 99
-- Số 30
+- Số 130
 
 Bài 2: 
 Đề bài: Nhập hai số nguyên từ bàn phím và tính toán:
@@ -12,7 +12,6 @@ Tổng + , Hiệu -, Tích *, Thương /, Chia lấy nguyên //, Chia lấy dư 
 
 Bài 3:
 Đề bài: Nhập hai số nguyên a và b, kiểm tra a có lớn hơn b không?
-
 
 Bài 4:
 Đề bài: (Câu điều kiện If…else ) Nhập một số nguyên. Kiểm tra xem nó là số chẵn hay lẻ.
@@ -23,11 +22,10 @@ Bài 5:
 Bài 6: 
 Đề bài: (Vòng lặp While) Viết chương trình tính tổng các số từ 1 đến n bằng vòng lặp while.
 
-
 Bài 7:
 Đề bài: (Vòng lặp For) Viết chương trình in bảng cửu chương của số n nhập từ bàn phím.
 
-Bài 8:
+Bài 6:
 Đề bài: Đề bài: Viết hàm nhận vào hai số và trả về tổng của chúng.
 
 Bài 9: Viết hàm kiểm tra số chẵn
@@ -38,7 +36,19 @@ Tìm số lớn nhất trong danh sách
 Đề bài: Cho một mảng danh sách sao lst = [1, 9, 3, 7, 5] Viết chương trình tìm số lớn nhất trong danh sách.
 
 
+=====================
 
+Bài 11: In số chẵn từ 1 đến N
+Viết chương trình in tất cả số chẵn từ 1 đến N bằng vòng lặp for
+
+
+Bài 8: Tính tổng các số lẻ từ 1 đến N
+
+
+Bài 9: Nhập vào một số nguyên dương N. Viết chương trình đảo ngược số này và in ra màn hình.
+
+
+Bài 10: Viết chương trình yêu cầu nhập mật khẩu. Nếu nhập sai, chương trình yêu cầu nhập lại cho đến khi nhập đúng.
 
 
 
